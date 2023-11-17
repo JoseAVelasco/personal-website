@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Hero() {
   return (
     <div className="bg-white">
@@ -42,7 +44,9 @@ export default function Hero() {
           </div>
         </div>
         <div className="bg-gray-50 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-          <img
+          <Image
+            width={6000}
+            height={4000}
             className="aspect-[3/2] object-cover lg:aspect-auto lg:h-full lg:w-full"
             src="/profile.JPG"
             alt=""

@@ -1,3 +1,4 @@
+import Image from "next/image"
 
 const posts = [
   {
@@ -48,7 +49,9 @@ export default function Projects() {
           {posts.map((post) => (
             <article key={post.id} className="flex flex-col items-start justify-between">
               <div className="relative w-full">
-                <img
+                <Image
+                  width={862}
+                  height={1680}
                   src={post.imageUrl}
                   alt=""
                   className="aspect-[7/4] w-full rounded-2xl bg-gray-100 object-cover sm:aspect-[2/1] lg:aspect-[16/8]"
