@@ -21,7 +21,7 @@ export default function Hero() {
                   Jose Velasco
                 </h1>
                 <p className="mt-6 text-lg leading-8 text-gray-600">
-                Hey there! I&apos;m a passionate software engineer born and raised in the vibrant city of Los Angeles. My coding journey revolves around crafting scalable applications with a tech stack featuring Node.js/Express on the backend and React (often with Redux) on the frontend. You&apos;ll often find me actively contributing to various open-source products, sharing my knowledge and expertise with the  community.
+                Hey there! I&apos;m a passionate software engineer born and raised in the vibrant city of Los Angeles. My primary tech stack revolves around Node.js/Express on the backend and React (often with Redux) on the frontend. You&apos;ll often find me actively contributing to various open-source products, sharing my knowledge and expertise with the  community.
                 </p>
                 <p className="mt-6 text-lg leading-8 text-gray-600">
                   When I step away from my keyboard, I&apos;m all about
