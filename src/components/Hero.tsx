@@ -27,15 +27,15 @@ export default function Hero() {
                   When I step away from my keyboard, I&apos;m all about
                   embracing the outdoors. Whether it&apos;s roaming the streets
                   on a run, conquering trails during a hike, or casting a line
-                  into the water, I thrive on the balance of nature.
+                  into the water, I simply enjoy nature.
                 </p>
                 <p className="mt-6 text-lg leading-8 text-gray-600">
                   I&apos;m a firm believer in the philosophy that beautiful
                   software is for beautiful humans. It&apos;s not just about
                   functionality; it&apos;s about creating an experience that
-                  resonates visually and functionally. As my favorite global
+                  connects visually and functionally. As my favorite global
                   street art from Notion says, &quot;Software should be
-                  beautiful,&quot; and I carry that ethos into every line of
+                  beautiful,&quot; and I carry that principle into every line of
                   code I write.
                 </p>
                 <div className="mt-10 flex items-center gap-x-6"></div>
