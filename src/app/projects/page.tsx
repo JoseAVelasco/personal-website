@@ -50,6 +50,7 @@ export default function Projects() {
             <article key={post.id} className="flex flex-col items-start justify-between">
               <div className="relative w-full">
                 <Image
+                  priority={true}
                   width={862}
                   height={1680}
                   src={post.imageUrl}

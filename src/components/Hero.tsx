@@ -47,6 +47,7 @@ export default function Hero() {
           <Image
             width={6000}
             height={4000}
+            priority={true}
             className="aspect-[3/2] object-cover lg:aspect-auto lg:h-full lg:w-full"
             src="/profile.JPG"
             alt=""
